@@ -1,0 +1,8 @@
+.one {
+  min-height: 100vh;
+  background: blue;
+}
+h1 {
+  color: red;
+  font-size: 5rem;
+}
